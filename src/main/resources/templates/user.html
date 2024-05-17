@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <title>User Page</title>
+</head>
+<body>
+<h1>Welcome to the User Page, <span th:text="${username}"></span>!</h1>
+<!-- Information message -->
+<div th:if="${!isUsersPage}">
+    <p>This is not the /users page.</p>
+</div>
+</body>
+</html>
