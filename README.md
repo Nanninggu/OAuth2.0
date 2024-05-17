@@ -16,7 +16,7 @@ accounts.google.com](https://console.cloud.google.com/)
 
 이름은 아무거나 입력.
 
-![img1 daumcdn {"originWidth":809,"originHeight":582,"style":"alignLeft","width":481,"height":346}](https://github.com/Nanninggu/OAuth2.0/assets/54211801/12cfd35c-4667-41b7-94f7-f4a9d8d5828f)
+![img1 daumcdn, {"originWidth":809,"originHeight":582,"style":"alignLeft","width":481,"height":346}](https://github.com/Nanninggu/OAuth2.0/assets/54211801/12cfd35c-4667-41b7-94f7-f4a9d8d5828f)
 
 
 [##_Image|kage@NlE6H/btsHsQ9GZgp/l5OFMnvFZrhX8mffOf7RVK/img.png|CDM|1.3|{"originWidth":809,"originHeight":582,"style":"alignLeft","width":481,"height":346}_##]
