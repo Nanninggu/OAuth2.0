@@ -1,6 +1,6 @@
-#### **\# Google SSO 인증 구현**
+### **\# Google SSO 인증 구현**
 
-#### **1\. 구글에 Application 등록**
+### **1\. 구글에 Application 등록**
 
 [https://console.cloud.google.com/](https://console.cloud.google.com/)
 
@@ -16,9 +16,12 @@ accounts.google.com](https://console.cloud.google.com/)
 
 이름은 아무거나 입력.
 
+![img1 daumcdn {"originWidth":809,"originHeight":582,"style":"alignLeft","width":481,"height":346}](https://github.com/Nanninggu/OAuth2.0/assets/54211801/12cfd35c-4667-41b7-94f7-f4a9d8d5828f)
+
+
 [##_Image|kage@NlE6H/btsHsQ9GZgp/l5OFMnvFZrhX8mffOf7RVK/img.png|CDM|1.3|{"originWidth":809,"originHeight":582,"style":"alignLeft","width":481,"height":346}_##]
 
-#### **2\. Application 등록**
+### **2\. Application 등록**
 
 \- API 및 서비스 검색 > 사용자 인증 정보 > 사용자 인증 정보 만들기 > OAuth 클라이언트 ID 클릭.
 
@@ -30,7 +33,7 @@ accounts.google.com](https://console.cloud.google.com/)
 
 \- 테스트 사용자는 패스 (추가하지 않고 저장 후 계속 진행.
 
-#### **3\. Application 등록**
+### **3\. Application 등록**
 
 \- 사용자 인증 정보 > 사용자 인증 정보 만들기 > OAuth 클라이언트 ID 클릭
 
@@ -48,7 +51,7 @@ http://localhost:8080/login/oauth2/code/google
 
 [##_Image|kage@cQ8zUt/btsHtYlfa98/dEoUQtVSxvEa1rRFvJ1Y8K/img.png|CDM|1.3|{"originWidth":792,"originHeight":1250,"style":"alignLeft","width":537,"height":848}_##]
 
-#### **4\. 클라이언트 ID, 클라이언트 Secret 발급**
+### **4\. 클라이언트 ID, 클라이언트 Secret 발급**
 
 \- 아래와 같이 발급 되었다.
 
