@@ -51,14 +51,15 @@ http://localhost:8080/login/oauth2/code/google
 ### **4\. 클라이언트 ID, 클라이언트 Secret 발급**
 
 \- 아래와 같이 발급 되었다.
-![img1 daumcdn](https://github.com/Nanninggu/OAuth2.0/assets/54211801/57ebd7a7-a03f-4cea-988c-ec32bc9da6f7)
+
+![img1 daumcdn](https://github.com/Nanninggu/OAuth2.0/assets/54211801/ecd0e4e6-bc0c-4d66-9e10-ec0c47d8a583)
 
 \- Spring 코드에 부여받은 id와 secret 정보를 할당하자.
 ![img1 daumcdn](https://github.com/Nanninggu/OAuth2.0/assets/54211801/a6100de0-a45e-4586-91a5-56342d846684)
 
 \- 그리고 테스트를 해보자.
 
-![Uploading img.gif…]()
+![img](https://github.com/Nanninggu/OAuth2.0/assets/54211801/480fdddd-5020-49de-a32a-c0521528ecd2)
 
  [OAuth2.0/README.md at master · Nanninggu/OAuth2.0
 
